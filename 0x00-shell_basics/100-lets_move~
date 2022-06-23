@@ -1,0 +1,5 @@
+#!/bin/bash
+mv [[:upper:]]* /tmp/u
+Task 16:
+#!/bin/bash
+rm *~
