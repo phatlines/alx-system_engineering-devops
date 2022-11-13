@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # This script is used for FizzBuzz game
-n=1
 
 for num in {1..100}
 do
